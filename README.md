@@ -17,12 +17,12 @@ put this into the QuickCSS on vesktop/vencord (or whatever you're using):
     --custom-app-top-bar-height: 0px;
 }
 
-div.c38106a3f0c3ca76-trailing
+div.bar_3zSH5d
 {
   display: none;
 }
 
-nav.wrapper_ef3116
+nav.wrapper_5dqHTG
 {
   padding-top: 12px;
 }
